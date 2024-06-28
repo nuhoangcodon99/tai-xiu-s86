@@ -1,0 +1,107 @@
+/* width */
+
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+
+/* Track */
+
+ ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+
+/* Handle */
+
+ ::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+
+/* Handle on hover */
+
+ ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+body {
+    background: url(../maxresdefault_Done.jpg) no-repeat top center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+img {
+    width: 100%;
+}
+
+.download_but {
+    display: block;
+    margin: 20px 0px;
+}
+
+.download_but img {
+    max-width: 400px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.OTP_but {
+    color: #fff;
+    display: block;
+    font-size: 1.4em;
+    text-decoration: none;
+    background: #bb31f5;
+    width: 200px;
+    margin: 10px auto;
+    border-radius: 9px;
+    padding: 10px 27px;
+}
+
+.container {
+    max-width: 480px;
+}
+
+#privacypolicy {
+    color: #72798a;
+    position: absolute;
+    float: left;
+    bottom: 0;
+    left: 0;
+    transform: translate(20%, -50%);
+}
+
+.sidenavleft {
+    height: 50%;
+    width: 266px;
+    position: fixed;
+    z-index: 1;
+    top: 23%;
+    left: 0;
+    background-image: url("../8e5e3909-399b-46fa-a971-c622a648e8d1.png");
+    background-repeat: no-repeat, repeat;
+    background-size: 263px 421px;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenavright {
+    height: 50%;
+    width: 230px;
+    position: fixed;
+    z-index: 1;
+    top: 25%;
+    right: 0;
+    background-image: url("../sidebarRight.png");
+    background-repeat: no-repeat, repeat;
+    background-size: 229px 347px;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.scrollHu {
+    overflow: auto;
+    height: 384px;
+}

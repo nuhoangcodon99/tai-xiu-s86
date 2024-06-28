@@ -1,0 +1,126 @@
+{"signName":"kkkk"} | 15/10 12:04:47 am
+{"signName":"kkkk1"} | 15/10 12:04:52 am
+{"user":{"update_device":{"is_browser":true,"os":"OS X"},"ip":"114.108.225.203"}} | 15/10 12:04:53 am
+{"user":{"update_device":{"is_browser":true,"os":"OS X"},"ip":"114.108.225.203"}} | 15/10 12:04:54 am
+{"taixiu":{"view":true,"getLogs":true}} | 15/10 12:05:15 am
+{"taixiu":{"view":false}} | 15/10 12:06:03 am
+{"scene":"vq_red"} | 15/10 12:06:22 am
+{"g":{"vq_red":{"spin":{"cuoc":"10000","line":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]}}}} | 15/10 12:06:24 am
+{"g":{"vq_red":{"spin":{"cuoc":"10000","line":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]}}}} | 15/10 12:06:25 am
+{"g":{"vq_red":{"spin":{"cuoc":"10000","line":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]}}}} | 15/10 12:06:26 am
+{"scene":"home"} | 15/10 12:06:28 am
+{"user":{"update_device":{"is_browser":true,"os":"Windows"},"ip":"130.105.248.249"}} | 15/10 12:08:35 am
+{"user":{"update_device":{"is_browser":true,"os":"Windows"},"ip":"130.105.248.249"}} | 15/10 12:08:41 am
+{"user":{"update_device":{"is_browser":true,"os":"Windows"},"ip":"114.108.225.203"}} | 15/10 12:09:57 am
+{"user":{"update_device":{"is_browser":true,"os":"Windows"},"ip":"114.108.225.203"}} | 15/10 12:09:57 am
+{"shop":{"bank":{"list":true}}} | 15/10 12:10:05 am
+{"shop":{"bank":{"list":true}}} | 15/10 12:10:05 am
+{"shop":{"bank":{"list":true}}} | 15/10 12:10:10 am
+{"shop":{"bank":{"list":true}}} | 15/10 12:10:16 am
+{"g":{"casino":{"getBalance":true}}} | 15/10 12:23:44 am
+{"g":{"casino":{"getPlayData":{"platform":"desktop"}}}} | 15/10 12:23:44 am
+{"g":{"caothap":{"play":{"reconnect":true}}}} | 15/10 12:23:53 am
+{"g":{"caothap":{"play":{"newGame":{"cuoc":"1000"}}}}} | 15/10 12:24:04 am
+{"g":{"caothap":{"play":{"newGame":{"cuoc":"1000"}}}}} | 15/10 12:24:05 am
+{"g":{"caothap":{"play":{"newGame":{"cuoc":"1000"}}}}} | 15/10 12:24:05 am
+{"g":{"reg":"XocXoc"}} | 15/10 12:24:34 am
+{"scene":"Xocxoc","g":{"xocxoc":{"ingame":true}}} | 15/10 12:24:34 am
+{"user":{"update_device":{"is_browser":true,"os":"Windows"},"ip":"114.108.225.203"}} | 15/10 12:25:38 am
+{"user":{"update_device":{"is_browser":true,"os":"Windows"},"ip":"114.108.225.203"}} | 15/10 12:25:39 am
+{"taixiu":{"view":true,"getLogs":true}} | 15/10 12:25:43 am
+{"taixiu":{"view":false}} | 15/10 12:25:52 am
+{"user":{"update_device":{"is_browser":true,"os":"OS X"},"ip":"114.108.225.203"}} | 15/10 2:35:55 pm
+{"user":{"update_device":{"is_browser":true,"os":"OS X"},"ip":"114.108.225.203"}} | 15/10 2:35:56 pm
+{"taixiu":{"view":true,"getLogs":true}} | 15/10 2:36:10 pm
+{"taixiu":{"view":false}} | 15/10 2:36:12 pm
+{"message":{"update":true}} | 15/10 2:36:22 pm
+{"user":{"x2nap":{"get_process":{"gate":"bank"}}}} | 15/10 2:36:27 pm
+{"user":{"x2nap":{"get_process":{"gate":"momo"}}}} | 15/10 2:36:27 pm
+{"user":{"x2nap":{"get_process":{"gate":"viettelpay"}}}} | 15/10 2:36:27 pm
+{"taixiu":{"view":true}} | 15/10 2:45:24 pm
+{"user":{"update_device":{"is_browser":true,"os":"OS X"},"ip":"114.108.225.203"}} | 15/10 2:45:50 pm
+{"user":{"update_device":{"is_browser":true,"os":"OS X"},"ip":"114.108.225.203"}} | 15/10 2:45:50 pm
+{"user":{"update_device":{"is_browser":true,"os":"OS X"},"ip":"114.108.225.203"}} | 15/10 2:46:09 pm
+{"user":{"update_device":{"is_browser":true,"os":"OS X"},"ip":"114.108.225.203"}} | 15/10 2:46:10 pm
+{"user":{"update_device":{"is_browser":true,"os":"Windows"},"ip":"114.108.225.203"}} | 15/10 2:47:35 pm
+{"user":{"update_device":{"is_browser":true,"os":"Windows"},"ip":"114.108.225.203"}} | 15/10 2:47:35 pm
+{"user":{"update_device":{"is_browser":true,"os":"OS X"},"ip":"114.108.225.203"}} | 15/10 5:07:43 pm
+{"user":{"update_device":{"is_browser":true,"os":"OS X"},"ip":"114.108.225.203"}} | 15/10 5:07:43 pm
+{"user":{"update_device":{"is_browser":true,"os":"Android"},"ip":"114.108.225.203"}} | 15/10 5:11:27 pm
+{"user":{"update_device":{"is_browser":true,"os":"Android"},"ip":"114.108.225.203"}} | 15/10 5:11:28 pm
+{"user":{"update_device":{"is_browser":true,"os":"Android"},"ip":"114.108.225.203"}} | 15/10 5:16:33 pm
+{"user":{"update_device":{"is_browser":true,"os":"Android"},"ip":"114.108.225.203"}} | 15/10 5:16:33 pm
+{"user":{"update_device":{"is_browser":true,"os":"Windows"},"ip":"114.108.225.203"}} | 15/10 8:11:46 pm
+{"user":{"update_device":{"is_browser":true,"os":"Windows"},"ip":"114.108.225.203"}} | 15/10 8:11:46 pm
+{"user":{"update_device":{"is_browser":true,"os":"OS X"},"ip":"114.108.225.203"}} | 15/10 8:15:20 pm
+{"taixiu":{"view":true,"getLogs":true}} | 15/10 8:15:20 pm
+{"user":{"update_device":{"is_browser":true,"os":"OS X"},"ip":"114.108.225.203"}} | 15/10 8:15:20 pm
+{"taixiu":{"view":false}} | 15/10 8:20:56 pm
+{"user":{"update_device":{"is_browser":true,"os":"Windows"},"ip":"112.207.148.59"}} | 15/10 8:43:43 pm
+{"user":{"update_device":{"is_browser":true,"os":"Windows"},"ip":"112.207.148.59"}} | 15/10 8:43:43 pm
+{"g":{"casino":{"getBalance":true}}} | 15/10 8:43:47 pm
+{"g":{"casino":{"getPlayData":{"platform":"desktop"}}}} | 15/10 8:43:47 pm
+{"user":{"update_device":{"is_browser":true,"os":"Windows"},"ip":"112.207.148.59"}} | 15/10 8:44:11 pm
+{"user":{"update_device":{"is_browser":true,"os":"Windows"},"ip":"112.207.148.59"}} | 15/10 8:44:11 pm
+{"user":{"update_device":{"is_browser":true,"os":"Windows"},"ip":"112.207.148.59"}} | 16/10 1:25:35 pm
+{"user":{"update_device":{"is_browser":true,"os":"Windows"},"ip":"112.207.148.59"}} | 16/10 1:25:36 pm
+{"taixiu":{"view":true,"getLogs":true}} | 16/10 1:25:37 pm
+{"taixiu":{"view":false}} | 16/10 1:25:42 pm
+{"taixiu":{"view":true}} | 16/10 1:25:58 pm
+{"taixiu":{"view":false}} | 16/10 1:26:01 pm
+{"g":{"casino":{"getBalance":true}}} | 16/10 1:26:02 pm
+{"g":{"casino":{"getPlayData":{"platform":"desktop"}}}} | 16/10 1:26:02 pm
+{"scene":"momo"} | 16/10 1:26:14 pm
+{"scene":"home"} | 16/10 1:26:41 pm
+{"scene":"momo"} | 16/10 1:26:51 pm
+{"scene":"home"} | 16/10 1:27:18 pm
+{"scene":"xo_so"} | 16/10 1:27:40 pm
+{"g":{"xs":{"mb":{"kq":"16/10/2022"}}}} | 16/10 1:27:40 pm
+{"g":{"xs":{"mb":{"kq":"15/10/2022"}}}} | 16/10 1:27:45 pm
+{"g":{"reg":"XocXoc"}} | 16/10 1:27:47 pm
+{"user":{"update_device":{"is_browser":true,"os":"Windows"},"ip":"112.207.148.59"}} | 16/10 1:29:33 pm
+{"user":{"update_device":{"is_browser":true,"os":"Windows"},"ip":"112.207.148.59"}} | 16/10 1:29:34 pm
+{"captcha":"giftcode"} | 16/10 1:29:39 pm
+{"nhiemvu":100} | 16/10 1:29:53 pm
+{"message":{"update":true}} | 16/10 1:30:15 pm
+{"user":{"x2nap":{"get_process":{"gate":"bank"}}}} | 16/10 1:30:18 pm
+{"user":{"x2nap":{"get_process":{"gate":"momo"}}}} | 16/10 1:30:18 pm
+{"user":{"x2nap":{"get_process":{"gate":"viettelpay"}}}} | 16/10 1:30:18 pm
+{"message":{"update":true}} | 16/10 1:30:36 pm
+{"captcha":"regOTP"} | 16/10 1:31:25 pm
+{"user":{"getLevel":true}} | 16/10 1:31:25 pm
+{"captcha":"regOTP"} | 16/10 1:31:40 pm
+{"user":{"history":{"nap_red":{"page":1}}}} | 16/10 1:31:43 pm
+{"user":{"getLevel":true}} | 16/10 1:31:44 pm
+{"captcha":"regOTP"} | 16/10 1:31:45 pm
+{"user":{"history":{"nap_red":{"page":1}}}} | 16/10 1:31:46 pm
+{"user":{"history":{"mua_the":{"page":1}}}} | 16/10 1:31:47 pm
+{"user":{"history":{"nap_red":{"page":1}}}} | 16/10 1:31:48 pm
+{"user":{"history":{"bank":{"page":1}}}} | 16/10 1:31:48 pm
+{"user":{"history":{"chuyen_red":{"page":1}}}} | 16/10 1:31:49 pm
+{"shop":{"bank":{"list":true}}} | 16/10 1:31:51 pm
+{"shop":{"bank":{"list":true}}} | 16/10 1:31:51 pm
+{"captcha":"chargeCard"} | 16/10 1:31:52 pm
+{"shop":{"info_nap":true}} | 16/10 1:31:52 pm
+{"shop":{"bank":{"list":true}}} | 16/10 1:31:52 pm
+{"shop":{"wallet":{"gate":"momo"}}} | 16/10 1:31:54 pm
+{"shop":{"bank":{"list":true}}} | 16/10 1:31:55 pm
+{"captcha":"chargeCard"} | 16/10 1:32:05 pm
+{"shop":{"wallet":{"gate":"momo"}}} | 16/10 1:32:14 pm
+{"taixiu":{"view":true,"getLogs":true}} | 16/10 1:32:25 pm
+{"taixiu":{"get_top":{"red":true,"taixiu":true}}} | 16/10 1:32:41 pm
+{"taixiu":{"get_top":{"red":true,"taixiu":true}}} | 16/10 1:32:42 pm
+{"taixiu":{"get_top":{"red":true,"taixiu":true}}} | 16/10 1:32:43 pm
+{"taixiu":{"get_top":{"red":true,"taixiu":true}}} | 16/10 1:32:44 pm
+{"taixiu":{"get_top":{"red":true,"taixiu":true}}} | 16/10 1:32:45 pm
+{"taixiu":{"get_top":{"red":true,"taixiu":true}}} | 16/10 1:32:46 pm
+{"taixiu":{"get_log":{"page":1}}} | 16/10 1:32:56 pm
+{"g":{"casino":{"getBalance":true}}} | 16/10 1:33:15 pm
+{"g":{"casino":{"getPlayData":{"platform":"desktop"}}}} | 16/10 1:33:15 pm
+{"taixiu":{"view":false}} | 16/10 1:33:55 pm
+{"scene":"momo"} | 16/10 1:33:56 pm
+{"taixiu":{"view":true}} | 16/10 1:33:58 pm
+{"scene":"home"} | 16/10 1:33:58 pm
+{"taixiu":{"cuoc":{"red":true,"taixiu":true,"select":true,"bet":100000000}}} | 16/10 1:34:02 pm
+{"user":{"updateCoint":true}} | 16/10 1:34:02 pm
+{"taixiu":{"view":false}} | 16/10 1:34:04 pm

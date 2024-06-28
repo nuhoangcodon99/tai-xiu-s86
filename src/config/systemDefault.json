@@ -1,0 +1,42 @@
+{
+    "infomation": {
+        "version": "1.0.0",
+        "telegram": "",
+        "telegramBot": "",
+        "telesupport": "",
+        "zalo": "",
+        "fanpage": "",
+        "quickChat": "",
+        "ios": "",
+        "android": "",
+        "notifyPin": ""
+    },
+    "gameStatus": {
+        "taixiu": true,
+        "xocxoc": true,
+        "rongho": true,
+        "baucua": true,
+        "lode": true,
+        "kbet": true,
+        "pocker": true,
+        "candy": true,
+        "bacay": true,
+        "caothap": true,
+        "minipoker": true,
+        "pubg": true,
+        "casinoroyale": true,
+        "sieuxe": true,
+        "avengers": true,
+        "panda": true,
+        "lmht": true,
+        "banca": true,
+        "mienvientay": true,
+        "dongmauanhhung": true,
+        "frozen": true,
+        "daihaitrinh": true,
+        "cowboy": true,
+        "tamhung": true,
+        "momo": true,
+        "casino": true
+    }
+}

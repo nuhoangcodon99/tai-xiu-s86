@@ -1,0 +1,25 @@
+# Dependency directory
+.vscode
+node_modules
+bower_components
+
+# Package Lockfile
+yarn.lock
+package-lock.json
+
+# Editors
+.idea
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+#yarn
+.yarnrc
+
+# environment
+.env
+
+#logRequest
+.log

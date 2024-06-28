@@ -1,0 +1,49 @@
+Arguments: 
+  /home/kunkey/.nvm/versions/node/v16.10.0/bin/node /home/kunkey/.nvm/versions/node/v16.10.0/bin/yarn
+
+PATH: 
+  /home/kunkey/.nvm/versions/node/v16.10.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  16.10.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  SyntaxError: /home/kunkey/Documents/TaiLoc88/tailoc-slot-cms/package.json: Unexpected token } in JSON at position 411
+      at JSON.parse (<anonymous>)
+      at /home/kunkey/.nvm/versions/node/v16.10.0/lib/node_modules/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/home/kunkey/.nvm/versions/node/v16.10.0/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /home/kunkey/.nvm/versions/node/v16.10.0/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  {
+      "name": "tailoc-slot-cms",
+      "version": "1.0.0",
+      "description": "",
+      "main": "server.js",
+      "scripts": {
+          "dev": "nodemon server.js",
+          "start": "node server.js"
+      },
+      "author": "",
+      "license": "ISC",
+      "dependencies": {
+          "body-parser": "^1.19.0",
+          "dotenv": "^9.0.2",
+          "ejs": "^3.1.6",
+          "express": "^4.17.1",
+          "moment": "^2.29.1",
+      }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

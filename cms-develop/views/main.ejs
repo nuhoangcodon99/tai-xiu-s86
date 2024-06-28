@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>CMS - Dashboard</title>
+    <!-- Favicon icon -->
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap" rel="stylesheet">
+    <!-- Custom Stylesheet -->
+    <link href="/plugins/sweetalert/css/sweetalert.css" rel="stylesheet">
+    <script src="/plugins/sweetalert/js/sweetalert.min.js"></script>
+    <!-- booostrap switch  -->
+    <link href="/bootstrap-switch/component-custom-switch.css" rel="stylesheet">
+
+    <link href="/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+    <!--*** Scripts ****-->
+    <script src="/plugins/common/common.min.js"></script>
+    <!-- Page plugins css -->
+    <link href="/plugins/clockpicker/dist/jquery-clockpicker.min.css" rel="stylesheet">
+    <!-- Color picker plugins css -->
+    <link href="/plugins/jquery-asColorPicker-master/css/asColorPicker.css" rel="stylesheet">
+    <link rel="stylesheet" href="/toastr-cute-alert/style.css" />
+    <script src="/toastr-cute-alert/cute-alert.js"></script>
+    <!-- MomentJS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.34/moment-timezone-with-data-1970-2030.js"></script>
+    <!-- DataTables -->
+    <link rel="stylesheet" href="/plugins/datatable/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" href="/plugins/datatable/css/responsive.dataTables.min.css" />
+    <link rel="stylesheet" href="/plugins/datatable/css/buttons.dataTables.min.css" />
+    <!-- UI MODE-->
+    <link rel="stylesheet" href="/css/uiMode.css" />
+    <!-- END UI MODE-->
+    <!-- GAME CSS-->
+    <link rel="stylesheet" href="/css/game/taixiu.css" />
+    <link rel="stylesheet" href="/css/game/baucua.css" />
+    <!-- END GAME CSS-->
+    <!-- DataTables Script -->
+    <!-- responsive table -->
+    <script src="/plugins/datatable/js/jquery.dataTables.min.js"></script>
+    <script src="/plugins/datatable/js/dataTables.responsive.min.js"></script>
+    <script src="/plugins/datatable/js/dataTables.buttons.min.js"></script>
+    <script src="/plugins/datatable/js/buttons.flash.min.js"></script>
+    <script src="/plugins/datatable/js/jszip.min.js"></script>
+    <script src="/plugins/datatable/js/pdfmake.min.js"></script>
+    <script src="/plugins/datatable/js/vfs_fonts.js"></script>
+    <script src="/plugins/datatable/js/buttons.html5.min.js"></script>
+    <script src="/plugins/datatable/js/buttons.print.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
+    <script src="./plugins/chart.js/Chart.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <script src="js/initApp.js"></script>
+    <style>
+        body,
+        a,
+        span,
+        button:hover {
+            cursor: url(/css/arrow.cur), progress !important;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!--*******************
+        Preloader start
+        
+    <div id="preloader">
+        <div class="loader">
+            <svg class="circular" viewBox="25 25 50 50">
+                <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="3" stroke-miterlimit="10" />
+            </svg>
+        </div>
+    </div>
+    
+        Preloader end
+    ********************-->
+
+
+    <!--**********************************
+        Main wrapper start
+    ***********************************-->
+    <div id="main-wrapper">
+
+        <!--**********************************
+            Nav header start
+        ***********************************-->
+        <div class="nav-header" style="background-color: #000000;">
+            <div class="brand-logo">
+                <a href="javascript:void(0)" onclick="callDataGame('home')">
+                    <b class="logo-abbr"><img src="/images/logo.png" alt=""> </b>
+                    <span class="logo-compact"><img src="/images/logo-compact.png" alt=""></span>
+                    <span class="brand-title">
+                        <span class="text-danger" style="font-weight: 900;color: #ff9f7a !important;">YOUTUBE:</span>
+                    <span class="text-info" style="font-weight: 900;color: #ebc022 !important;">SOURCE ALL</span>
+                    </span>
+                </a>
+            </div>
+        </div>
+        <!--**********************************
+            Nav header end
+        ***********************************-->
+
+        <!--**********************************
+            Header start
+        ***********************************-->
+        <div class="header">
+            <div class="header-content clearfix">
+
+                <div class="nav-control">
+                    <div class="hamburger">
+                        <span class="toggle-icon"><i class="icon-menu"></i></span>
+                    </div>
+                </div>
+                <div class="header-left">
+                </div>
+                <div class="header-right">
+                    <ul class="clearfix">
+                        <li class="icons dropdown">
+                            <a href="javascript:void(0)" onclick="callDataGame('home')">
+                                <i class="fa fa-refresh"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!--**********************************
+            Header end ti-comment-alt
+        ***********************************-->
+
+        <!--**********************************
+            Sidebar start
+        ***********************************-->
+        <div class="nk-sidebar">
+            <div class="nk-nav-scroll">
+                <ul class="metismenu in" id="menu">
+                </ul>
+            </div>
+        </div>
+        <!--**********************************
+            Sidebar end
+        ***********************************-->
+
+        <!--**********************************
+            Content body start
+        ***********************************-->
+        <div class="content-body">
+            <!-- #/ container -->
+            <div class="login-form-bg h-100" style="margin-top: 150px;" id="loginSence">
+                <div class="container h-100">
+                    <div class="row justify-content-center h-100">
+                        <div class="col-xl-6">
+                            <div class="form-input-content">
+                                <div class="card login-form mb-0" style="border-radius: 2.625rem;">
+                                    <div class="card-body pt-5">
+                                        <div class="text-center">
+                                            <img src="https://www.ionos.com/digitalguide/fileadmin/DigitalGuide/Teaser/cms-t.jpg" class="rounded-circle" style="height: 138px;box-shadow: 0px 0px 75px -8px #141c32;">
+                                        </div>
+                                        <div class="mt-5 mb-5 login-input">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control" id="username" placeholder="Tài khoản Admin" value="">
+                                            </div>
+                                            <div class="form-group">
+                                                <input type="password" class="form-control" id="password" placeholder="Mật khẩu Admin" value="">
+                                            </div>
+                                            <div class="form-group">
+                                                <div class="input-group">
+                                                    <input type="number" id="otpcode" class="form-control" placeholder="Nhập Mã OTP" min="1" max="6"> <span class="input-group-append" style="cursor: -webkit-grab; cursor: grab;" onclick="loginGetOTP()"><span class="input-group-text">Lấy OTP</span></span>
+                                                </div>
+                                            </div>
+                                            <button class="btn login-form__btn submit w-100" onclick="login()">Đăng
+                                                nhập</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <script>
+                    $(document).keypress(function(event) {
+                        var keycode = (event.keyCode ? event.keyCode : event.which);
+                        if (keycode == '13') login();
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
+    <!--**********************************
+                    Content body end
+                ***********************************-->
+
+
+    <!--**********************************
+                    Footer start
+                ***********************************-->
+    <div class="footer">
+        <div class="copyright">
+            <p>Copyright &copy; Designed & Developed by <a href="https://www.youtube.com/channel/UCnIovHlKCcIQNjpnFvtW2Dw">YOUTUBE: SOURCE ALL</a> 2023</p>
+        </div>
+    </div>
+    <!--**********************************
+                    Footer end
+                ***********************************-->
+    </div>
+    <!--**********************************
+                Main wrapper end
+            ***********************************-->
+
+    <script src="plugins/common/common.min.js"></script>
+    <script src="/js/custom.min.js"></script>
+    <script src="/js/settings.js"></script>
+    <script src="/js/gleek.js"></script>
+    <script src="/js/styleSwitcher.js"></script>
+
+    <script src="/plugins/validation/jquery.validate.min.js"></script>
+    <script src="/plugins/validation/jquery.validate-init.js"></script>
+    <!-- Clock Plugin JavaScript -->
+    <script src="/plugins/clockpicker/dist/jquery-clockpicker.min.js"></script>
+
+</body>
+
+</html>
